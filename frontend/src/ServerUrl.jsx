@@ -1,1 +1,1 @@
-export const serverUrl = "https://movie-mingle-mern-app.vercel.app";
+export const serverUrl = "https://tamilloggerss.onrender.com";
