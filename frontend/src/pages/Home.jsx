@@ -60,21 +60,6 @@ const Home = () => {
         <Loader />
       ) : (
         <>
-          <div class="alert alert-primary" role="alert">
-            <h4 class="alert-heading">Information!</h4>
-            <p>
-              For Admin Actions use the following infront of the url <br />
-              ("/admin/signin") for admin login <br /> ("/admin/register") for
-              admin registration <br /> ("/admin/dashboard") for admin dashboard
-              )
-            </p>
-            <hr />
-
-            <p class="mb-0">
-              admin panel login credentials (Email: test@gmail.com | Password:
-              test@1)
-            </p>
-          </div>
 
           <section className="home-section">
             <Sidebar />
