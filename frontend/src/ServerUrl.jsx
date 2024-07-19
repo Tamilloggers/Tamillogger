@@ -1,1 +1,1 @@
-export const serverUrl = "https://tamilloggerss.onrender.com";
+export const serverUrl = "https://tamilloggers.toystack.dev";
