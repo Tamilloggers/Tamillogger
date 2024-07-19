@@ -17,7 +17,7 @@ const PORT = process.env.PORT || 5000;
 connectDb();
 
 const corsOptions = {
-  origin: "https://movie-mingle-mern-app.vercel.app",
+  origin: "https://tamilloggers.toystack.dev",
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   credentials: true,
 };
